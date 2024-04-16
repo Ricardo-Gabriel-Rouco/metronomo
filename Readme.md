@@ -56,11 +56,3 @@ Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes enviar 
 ## Problemas
 
 Si encuentras algún problema o tienes alguna pregunta sobre este proyecto, por favor, abre un nuevo issue en este repositorio.
-
-## Licencia
-
-[Indica la licencia bajo la cual se distribuye el código, por ejemplo, MIT License].
-
-## Agradecimientos
-
-[Opcional: Agradecimientos a las personas o recursos que han contribuido al proyecto].
